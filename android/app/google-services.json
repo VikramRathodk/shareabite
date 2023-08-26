@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058809554389",
+    "project_id": "shareabite-b9864",
+    "storage_bucket": "shareabite-b9864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058809554389:android:2d8fe76fb8dee30dfbc95c",
+        "android_client_info": {
+          "package_name": "com.example.shareabite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058809554389-28bngr24l8qnihort7985aje3gsdduqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFg2RaWMl4xs2RxWvzw4Yy9yTlRf_bcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058809554389-28bngr24l8qnihort7985aje3gsdduqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
